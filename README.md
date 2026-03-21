@@ -1,6 +1,6 @@
 ## Olá, eu sou Carina Dias! 
 
-Sou uma Estudante de programação. Autodidata. Em transição de carreira. Focada em me tornar uma Desenvolvedora com especialização em análise de Dados.
+Sou Estudante de programação. Autodidata. Em transição de carreira. Focada em me tornar uma Desenvolvedora com especialização em análise de Dados.
 
 ### Sobre mim
 - Estudante Autodidata de programação e Tecnologia.
