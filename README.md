@@ -1,6 +1,6 @@
 ## Olá, eu sou Carina Dias! 
 
-Sou Estudante de Analise e desenvolvimento de sistemas. Em transição de carreira. Focada em me tornar uma Desenvolvedora com especialização em análise de Dados.
+Sou Estudante de Analise e desenvolvimento de sistemas. Em transição de carreira. Focada em tornar uma Desenvolvedora com especialização em análise de Dados.
 
 ### Sobre mim
 - Estudante de programação e Tecnologia.
